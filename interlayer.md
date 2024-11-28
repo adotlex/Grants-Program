@@ -1,4 +1,4 @@
-# Interlayer Network
+# Interlayer Network - Unified Web3 Graph MVP 
 
 > This document will be part of the terms and conditions of your agreement and, therefore, needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines (except for the title)! Lines starting with a `>` (such as this one) should be removed. Please use markdown instead of HTML (e.g., `![](image.png)` instead of `<img>`).
 >
@@ -31,7 +31,7 @@ An example of an Interlayer dApp (InterdApp); Crust for storage, Moonbeam for ex
 
 ### Team interest
 
-We are passionate about building a web3 that is used by the entire world, not just a small handful of users. We believe the future will be multichain, with many use-case specific chains operating in unison to create singular applications. I (Alex) originally started building a carbon sequestration network in Substrate in September 2021. I envisoned a fully decentralised carbon credit, and quickly discovered that my vision was not possible with current technology. This inspired me to focus on fundamental web3 infrastructure to enable developers to build the applications they currently cannot. 
+We are passionate about building a unified and decentralised web that is used by the entire world, replacing web2 across all use cases. We believe the future will be multichain, with many use-case specific chains operating in unison to create singular applications. I (Alex) originally started building a carbon sequestration network in Substrate in September 2021. I envisoned a fully decentralised carbon credit, and quickly discovered that my vision was not possible with current technology. This inspired me to focus on fundamental web3 infrastructure to enable developers to build the applications they currently cannot. 
 
 
 ### Project Details
