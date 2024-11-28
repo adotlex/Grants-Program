@@ -20,6 +20,8 @@ Web3 is fragmented across multiple ecosystems. Interlayer is a layer 1 network b
 
 Using a native big graph to manage and update the state of multiple chains concurrently we can enable the deployment and management of interchain dApps, as well as enhancing multichain experiences, such trading across multiple networks/DEXs simultaneously. 
 
+This will allow developers to build richer applications without being pinholed into selecting an ecosystem to deploy to, as well as enhancing the creation of dApps that do not have to substitute parts of the stack with web2, commonly referred to as "web 2.5" apps. 
+
 - Multichain = deployed to multiple chains, fragmented.
 - Interchain = deployed to multiple chains, unified. 
 
