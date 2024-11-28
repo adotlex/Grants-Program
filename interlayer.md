@@ -16,9 +16,9 @@
 
 ### Overview
 
-Web3 is fragmented across multiple ecosystems. Interlayer is a layer 1 network built with substrate that aims to unify the fragmented web3 by utilising graph theory. 
+Web3 is fragmented across multiple ecosystems. Interlayer is a layer 1 network built with substrate and using a Polkadot core that aims to unify the fragmented web3 by utilising graph theory. 
 
-Using a big graph, we can enable the deployment and management of multichain native dApps, as well as enhancing multichain experiences, like trading and interacting with multiple chains simultaneously. 
+Using a native big graph to manage and update the state of multiple chains concurrently we can enable the deployment and management of interchain dApps, as well as enhancing multichain experiences, such trading across multiple networks/DEXs simultaneously. 
 
 - Multichain = deployed to multiple chains, fragmented.
 - Interchain = deployed to multiple chains, unified. 
