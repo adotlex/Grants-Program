@@ -20,14 +20,19 @@ Web3 is fragmented across multiple ecosystems. Interlayer is a layer 1 network b
 
 Using a big graph, we can enable the deployment and management of multichain native dApps, as well as enhancing multichain experiences, like trading and interacting with multiple chains simultaneously. 
 
+Multichain = deployed to multiple chains, fragmented.
+Interchain = deployed to multiple chains, unified. 
+
+### Integration 
+
 Using the relay chain and Polkadots shared security, we will provide a singular interface for "interchain" dApp development. Currently, we are forced as developers to choose an ecosystem to deploy to. We envision a future where users interact with web3 in a similar way to web2. Multiple chains will play a part in creating "interconnected" dApps. 
 
 An example of an Interlayer dApp (InterdApp); Crust for storage, Moonbeam for execution, Hydration for liquidity, AssetHub for native tokens, Hyperbridge for cross-chain token movement. This will allow bigger, more sophisticated development and deployment. 
 
-We are passionate about building a web3 that is used by the entire world, not just a small handful of users. We believe the future will be multichain, with many use-case specific chains operating in unison to create singular applications. 
+### Team interest
 
-Multichain = deployed to multiple chains, fragmented.
-Interchain = deployed to multiple chains, unified. 
+We are passionate about building a web3 that is used by the entire world, not just a small handful of users. We believe the future will be multichain, with many use-case specific chains operating in unison to create singular applications. I (Alex) originally started building a carbon sequestration network in Substrate in September 2021. I envisoned a fully decentralised carbon credit, and quickly discovered that my vision was not possible with current technology. This inspired me to focus on fundamental web3 infrastructure to enable developers to build the applications they currently cannot. 
+
 
 ### Project Details
 
