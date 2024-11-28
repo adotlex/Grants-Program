@@ -16,7 +16,9 @@
 
 ### Overview
 
-Web3 is fragmented across multiple ecosystems. Interlayer is a layer 1 network that aims to unify the fragmented web3 by utilising graph theory. Using a big graph, we can enable the deployment and management of multichain native dApps, as well as enhancing multichain experiences, like trading and interacting with multiple chains simultaneously. 
+Web3 is fragmented across multiple ecosystems. Interlayer is a layer 1 network built with substrate that aims to unify the fragmented web3 by utilising graph theory. 
+
+Using a big graph, we can enable the deployment and management of multichain native dApps, as well as enhancing multichain experiences, like trading and interacting with multiple chains simultaneously. 
 
 Using the relay chain and Polkadots shared security, we will provide a singular interface for "interchain" dApp development. Currently, we are forced as developers to choose an ecosystem to deploy to. We envision a future where users interact with web3 in a similar way to web2. Multiple chains will play a part in creating "interconnected" dApps. 
 
@@ -24,15 +26,8 @@ An example of an Interlayer dApp (InterdApp); Crust for storage, Moonbeam for ex
 
 We are passionate about building a web3 that is used by the entire world, not just a small handful of users. We believe the future will be multichain, with many use-case specific chains operating in unison to create singular applications. 
 
-Multichain = deployed to multiple chains, fragmented 
-Interchain = deployed to multiple chains, unified 
-
-Please provide the following:
-
-- If the name of your project is not descriptive, a tagline (one sentence summary).
-- A brief description of your project.
-- An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
-- An indication of why your team is interested in creating this project.
+Multichain = deployed to multiple chains, fragmented.
+Interchain = deployed to multiple chains, unified. 
 
 ### Project Details
 
